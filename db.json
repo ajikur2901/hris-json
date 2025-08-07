@@ -7,17 +7,17 @@
       {
         "id": 1,
         "nama": "banner_1",
-        "isi": "https://picsum.photos/400/300"
+        "isi": "https://picsum.photos/400/300?x=12345678"
       },
       {
         "id": 2,
         "nama": "banner_2",
-        "isi": "https://picsum.photos/400/300"
+        "isi": "https://picsum.photos/400/300?x=09876543"
       },
       {
         "id": 3,
         "nama": "banner_3",
-        "isi": "https://picsum.photos/400/300"
+        "isi": "https://picsum.photos/400/300?x=56781234"
       }
     ]
   },
