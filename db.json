@@ -7,17 +7,17 @@
       {
         "id": "0",
         "nama": "banner_1",
-        "isi": "https://rnd.jmc.co.id/uploads/banner1.jpg"
+        "isi": "https://picsum.photos/id/64/200/300"
       },
       {
         "id": "1",
         "nama": "banner_2",
-        "isi": "https://rnd.jmc.co.id/uploads/banner2.jpg"
+        "isi": "https://picsum.photos/id/20/200/300"
       },
       {
         "id": "2",
         "nama": "banner_3",
-        "isi": "https://rnd.jmc.co.id/uploads/banner3.jpg"
+        "isi": "https://picsum.photos/id/22/200/300"
       }
     ]
   },
