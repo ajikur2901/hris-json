@@ -20,5 +20,23 @@
         "isi": "https://rnd.jmc.co.id/uploads/banner3.jpg"
       }
     ]
+  },
+  "pengumuman":{
+  "message": "OK",
+  "code": 1,
+  "status": 200,
+  "data": {
+    "id": 2,
+    "judul": "Libur Hari Kemerdekaan",
+    "isi": "Kantor akan libur pada 17 Agustus.",
+    "is_scheduled": 1,
+    "tanggal_mulai": "2025-08-01",
+    "tanggal_selesai": "2025-08-18",
+    "status": 1,
+    "pengirim": "HRD",
+    "lampiran": null,
+    "created_at": "",
+    "updated_at": ""
   }
+}
 }
