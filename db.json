@@ -1,0 +1,24 @@
+{
+  "banner": {
+    "message": "OK",
+    "code": 1,
+    "status": 200,
+    "data": [
+      {
+        "id": "0",
+        "nama": "banner_1",
+        "isi": "https://rnd.jmc.co.id/uploads/banner1.jpg"
+      },
+      {
+        "id": "1",
+        "nama": "banner_2",
+        "isi": "https://rnd.jmc.co.id/uploads/banner2.jpg"
+      },
+      {
+        "id": "2",
+        "nama": "banner_3",
+        "isi": "https://rnd.jmc.co.id/uploads/banner3.jpg"
+      }
+    ]
+  }
+}
