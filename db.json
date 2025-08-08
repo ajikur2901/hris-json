@@ -7,21 +7,16 @@
       {
         "id": 1,
         "nama": "banner_1",
-        "isi": "https://ik.imagekit.io/x540ip7li/banner%20onboard_fnOOSkvuQ.png"
+        "isi": "https://ik.imagekit.io/x540ip7li/banner_absensi_REIy_eSzt.png"
       },
       {
         "id": 2,
         "nama": "banner_2",
-        "isi": "https://ik.imagekit.io/x540ip7li/banner_absensi_REIy_eSzt.png"
+        "isi": "https://ik.imagekit.io/x540ip7li/izin_lxSq0RuQ9.png"
       },
       {
         "id": 3,
         "nama": "banner_3",
-        "isi": "https://ik.imagekit.io/x540ip7li/izin_lxSq0RuQ9.png"
-      },
-      {
-        "id": 4,
-        "nama": "banner_4",
         "isi": "https://ik.imagekit.io/x540ip7li/cuti_8rVjgPvRl.png"
       }
     ]
